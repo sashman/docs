@@ -101,7 +101,7 @@ function render () {
             dom.a({
               className: 'navbar-item navbar-item_api',
               href: '/api/index.html',
-              children: 'Api'
+              children: 'API'
             })
           ),
           dom.li(null,
